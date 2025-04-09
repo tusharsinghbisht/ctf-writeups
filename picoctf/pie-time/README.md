@@ -236,4 +236,4 @@ flag{REDACTED}
 [*] Got EOF while reading in interactive
 ```
 
-Hurray!! We got our flag by exploiting local executable, you can do similar to get the real flag by replaing `HOST` and `PORT` of remote server that you started.
+Hurray!! We got our flag by exploiting local executable, you can do similar to get the real flag by replacing `HOST` and `PORT` of remote server that you started.
