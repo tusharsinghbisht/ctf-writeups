@@ -1,12 +1,3 @@
----
-title: "Do not cheat - 1753 CTF 2025"
-summary: "1753 CTF 2025 - writeup for web challenge Do not cheat"
-date: "2025-04-13"
-draft: false
-tags: ["1753ctf", "web"]
-categories: ["writeups"]
-showToc: false
----
 
 ## Do Not Cheat
 
